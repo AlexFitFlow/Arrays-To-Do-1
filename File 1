@@ -1,5 +1,5 @@
 
-// First version - going forwards
+// First version -- going forwards
 function pushToFront(arr, val) {
     // Goal: Put "val" at the beginning of the array "arr", move everything else up one index
     // Need: temp variables for holding values
